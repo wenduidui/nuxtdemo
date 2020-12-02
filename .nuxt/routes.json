@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/xiaonaofu/Desktop/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/xiaonaofu/Desktop/realworld-nuxtjs/pages/home",
+        "_name": "_6ccfdcc4"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/xiaonaofu/Desktop/realworld-nuxtjs/pages/login",
+        "_name": "_69a26a8a"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/xiaonaofu/Desktop/realworld-nuxtjs/pages/login",
+        "_name": "_69a26a8a"
+      },
+      {
+        "path": "/profile/:username/:favorited?",
+        "name": "profile",
+        "component": "/Users/xiaonaofu/Desktop/realworld-nuxtjs/pages/profile",
+        "_name": "_63d8c08a"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/xiaonaofu/Desktop/realworld-nuxtjs/pages/setting",
+        "_name": "_26ad759e"
+      },
+      {
+        "path": "/editor/:slug?",
+        "name": "editor",
+        "component": "/Users/xiaonaofu/Desktop/realworld-nuxtjs/pages/editor",
+        "_name": "_83c1eb28"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/xiaonaofu/Desktop/realworld-nuxtjs/pages/article",
+        "_name": "_4aa303d7"
+      }
+    ],
+    "_name": "_6c2437ae"
+  }
+]
