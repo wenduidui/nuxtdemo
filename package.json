@@ -1,6 +1,7 @@
 {
   "name": "ssr",
   "version": "1.0.0",
+  "homepage": "https://wenduidui.github.io/nuxtdemo/",
   "description": "",
   "main": "index.js",
   "scripts": {
